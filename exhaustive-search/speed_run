@@ -1,0 +1,4 @@
+./process 0.72091 1 >> data/out_a0.72091_e1
+./process -1.53104 0.1 >> data/out_a-1.53104_e0.1
+./process -1.06798 0.01 >> data/out_a-1.06798_e0.01
+./process -1.51206 0.001 >> data/out_a-1.51206_e0.001
